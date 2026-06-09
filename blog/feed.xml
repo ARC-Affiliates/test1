@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test1 Blog</title>
+    <link>https://localblog.smithplumbing.com/blog/</link>
+    <atom:link href="https://localblog.smithplumbing.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>test1 — Plumbinig in Tampa, FL</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Jun 2026 14:54:53 +0000</lastBuildDate>
+
+  </channel>
+</rss>
