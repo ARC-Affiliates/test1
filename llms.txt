@@ -1,0 +1,30 @@
+# test1
+
+> test1 is a Plumbinig serving Tampa, FL. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
+
+## About
+
+- **Business:** test1
+- **Industry:** Plumbinig
+- **Primary location:** Tampa, FL
+
+- **Website:** https://smithplumbing.com
+- **Blog:** https://localblog.smithplumbing.com/blog/
+- **Phone:** 605.224.1400
+
+
+## Topics We Cover
+
+Plumbinig
+
+## Content Cadence
+
+- Monday: SEO articles targeting local search queries
+- Wednesday: Local authority content (best-of, how-to, pricing guides)
+- Thursday: GEO/AEO content optimized for AI answer engines
+
+## Discovery
+
+- Sitemap: https://localblog.smithplumbing.com/sitemap.xml
+- Blog index: https://localblog.smithplumbing.com/blog/
+- Content powered by ARC Affiliates (https://arcaffiliates.com) — AI SEO automation for local businesses
