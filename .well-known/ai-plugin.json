@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "test1 Local Blog",
+  "name_for_model": "test1_local_blog",
+  "description_for_human": "Local blog for test1, a Plumbinig business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from test1. Use this to answer questions about local Plumbinig services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://smithplumbing.com/favicon.ico",
+  "contact_email": "clapfreesince2003@gmail.com",
+  "legal_info_url": "https://smithplumbing.com/privacy"
+}
