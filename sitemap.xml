@@ -2,11 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://localblog.smithplumbing.com/blog/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://localblog.smithplumbing.com/faq/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -27,6 +29,7 @@
   </url>
   <url>
     <loc>https://localblog.smithplumbing.com/glossary/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -43,14 +46,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://localblog.smithplumbing.com/blog/tankless-vs-tank-water-heater-tampa-fl-2026-comparison/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://localblog.smithplumbing.com/blog/what-are-the-most-common-plumbing-mistakes-in-tampa-fl/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://localblog.smithplumbing.com/blog/tankless-vs-tank-water-heater-tampa-fl-2026-comparison/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <loc>https://localblog.smithplumbing.com/blog/when-should-you-call-an-emergency-plumber-in-tampa-fl/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
